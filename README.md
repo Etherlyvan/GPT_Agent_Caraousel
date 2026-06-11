@@ -177,11 +177,8 @@ This project is private and proprietary to Raho Premier.
 - **AI**: OpenAI Image Generation API
 
 ## 📞 Support
+- **Just Ask**
 
-Untuk pertanyaan atau support, hubungi tim Raho Premier:
-- WhatsApp: +62 851-3622-2772
-- Instagram: @rahopremier
-- TikTok: @rahopremier
 
 ---
 
