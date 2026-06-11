@@ -1,4 +1,4 @@
-# 🎨 Raho Carousel Agent - Instagram Carousel Generator
+# 🎨 Carousel Agent - Instagram Carousel Generator
 
 [![Next.js](https://img.shields.io/badge/Next.js-15.1.9-black)](https://nextjs.org/)
 [![React](https://img.shields.io/badge/React-19.0.0-blue)](https://reactjs.org/)
